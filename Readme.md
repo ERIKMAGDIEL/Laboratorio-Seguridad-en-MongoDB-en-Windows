@@ -106,11 +106,5 @@ El error "MongoServerSelectionError: read ECONNRESET" ocurrió al intentar estab
 
 ```Reinicio de MongoDB```: Se intentó reiniciar el servicio de MongoDB, pero nuevamente, el error no se resolvió.
 
-##### Posibles causas no resueltas:
 
-La configuración incorrecta del archivo mongod.conf, que podría afectar la capacidad del servidor para aceptar conexiones TLS.
-
-Problemas con la red local o el firewall que podrían estar bloqueando la conexión.
-
-Incompatibilidad entre las versiones de mongosh y el servidor MongoDB.
 
